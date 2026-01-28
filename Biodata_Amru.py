@@ -9,6 +9,6 @@ kota = 'Kab. Magelang'
 
 print(f'Nama Lengkap\t: {nama}')
 print(f'Hobi\t\t: {hobi}')
-print(f'Alamat\t\t: {alamat}, {kota}')
+print(f'Alamat\t\t: {alamat} yang berada di {kota}')
 
 print('='*63)
