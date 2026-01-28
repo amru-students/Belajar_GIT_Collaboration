@@ -2,7 +2,7 @@ print('='*63)
 print('\t\t\tProgram Biodata')
 print('='*63)
 
-nama = 'Ahmad Amru Izzuddin'
+nama = 'Mater Development Ahmad Amru Izzuddin'
 hobi = 'Gambar, Gaming'
 alamat = 'Salaman'
 kota = 'Kab. Magelang'
