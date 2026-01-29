@@ -1,4 +1,3 @@
-# Belajar Collab dengan 2 Akun
+# Ini adalah Tugas Akhir
 
-Kolaborator
-Ahmad Amru Izzuddin - SMKIT Ihsanul Fikri
+Ini dikerjakan pada tanggal 29 Januari 2026 hari Kamis
