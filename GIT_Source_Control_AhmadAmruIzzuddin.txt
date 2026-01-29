@@ -1,7 +1,0 @@
-Belajar GIT Source Control
-
-Nama Lengkap    : Ahmad Amru Izzuddin
-
-Saya senang belajar GIT Source Control di Gamelab Indoensia
-
-Revert lebih baik di gunakan setelah push, karena sebelum push, hanya akan menumpuk log

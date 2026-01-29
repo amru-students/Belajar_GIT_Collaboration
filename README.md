@@ -1,4 +1,1 @@
-# Belajar Collab dengan 2 Akun
-
-Kolaborator
-Ahmad Amru Izzuddin - SMKIT Ihsanul Fikri
+# Ini Branch Latihan buat latihan, dan Tugas Akhir
