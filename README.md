@@ -1,7 +1,15 @@
 # Ini adalah Tugas Akhir
+Dikerjakan oleh
 
-Ini dikerjakan pada tanggal 29 Januari 2026 hari Kamis
+## Ahmad Amru Izzuddin
 
-Ini adalah hasil merge dengan branch training, pun setelah resolve conflict
+## Instansi
 
-Ini adalah cherry-pick dari branch training yang di terima oleh branch master
+### SMKIT Ihsanul Fikri Mungkid
+
+## Asal
+
+### Magelang
+
+### Motivation of the day
+"Janganlah menyerah, tapi kalo ga bisa lanjut tidur aja"
